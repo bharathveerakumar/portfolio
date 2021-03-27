@@ -349,4 +349,8 @@ img.imgzoom
         width: 90%;
         height: auto;
     }
+    .pagination
+    {
+        margin-left:40%;
+    }
 }
