@@ -42,7 +42,7 @@ a
 .menucont
 {
     display: none;
-    width: 15%;
+    width: 40%;
     height: auto;
     background-image: linear-gradient(to right,violet,pink);
     border-radius: 10px;
@@ -79,7 +79,7 @@ ul.menucont li
     }
     to
     {
-        width: 15%;
+        width: 40%;
     }
 }
 .menu:hover .menucont
